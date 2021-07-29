@@ -41,4 +41,5 @@ Also Join my [Discord Server](https://api.lewds.fun/discord) and [NSFW API](http
 
 <a href="https://www.npmjs.com/package/lewds.fun"><img src="https://img.shields.io/npm/dt/lewds.api.svg?maxAge=3600" alt="NPM downloads" /></a>
 <a href="https://www.npmjs.com/package/lewds.fun"><img src="https://img.shields.io/npm/v/lewds.api.svg?maxAge=3600" alt="NPM version" /></a>
+
 <img src="https://nodei.co/npm/lewds.api.png?downloads=true&amp;stars=true" alt="npm installnfo" data-canonical-src="https://nodei.co/npm/lewds.api.png?downloads=true&amp;stars=true" style="max-width:100%;"></div><a href="https://api.lewds.fun/discord"><img src="https://img.shields.io/discord/603697853428137986?color=black&logo=discord&logoColor=red" alt="Discord server" /></a></div>
